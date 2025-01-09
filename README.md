@@ -6,4 +6,4 @@ Tenhle repozipář je prázdný a obsahuje:
 - NULL
 
 ## Druhý podnadpis
-
+## Další podnadpis
